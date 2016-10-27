@@ -69,3 +69,5 @@ CanvasLayerOptions.prototype.resolutionScale;
  * @type {function}
  */
 CanvasLayerOptions.prototype.updateHandler;
+
+export default CanvasLayerOptions;
