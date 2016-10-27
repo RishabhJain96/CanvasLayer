@@ -1,0 +1,24 @@
+{
+  "name": "canvaslayer",
+  "version": "1.0.0",
+  "description": "A library for adding a <canvas> layer to a Google Maps JavaScript API v3 map and a small API for efficiently using it to visualize data using the 2d canvas API or WebGL.",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhJain96/CanvasLayer.git"
+  },
+  "keywords": [
+    "googlemaps",
+    "canvas",
+    "webgl"
+  ],
+  "author": "Brendan Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishabhJain96/CanvasLayer/issues"
+  },
+  "homepage": "https://github.com/RishabhJain96/CanvasLayer#readme"
+}
