@@ -6,6 +6,7 @@
     "doc": "docs",
     "example": "examples"
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RishabhJain96/CanvasLayer.git"
