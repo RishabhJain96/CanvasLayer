@@ -1,7 +1,3 @@
-export {
-    default as CanvasLayer
-} from "./CanvasLayer";
+var CanvasLayer = require('./CanvasLayer');
 
-export {
-    default as CanvasLayerOptions
-} from "./CanvasLayerOptions";
+module.exports = CanvasLayer;

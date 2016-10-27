@@ -546,4 +546,4 @@ CanvasLayer.prototype.scheduleUpdate = function() {
   }
 };
 
-export default CanvasLayer;
+module.exports = CanvasLayer;
