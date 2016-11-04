@@ -110,7 +110,6 @@ function CanvasLayer(opt_options) {
   canvas.style.position = 'absolute';
   canvas.style.top = 0;
   canvas.style.left = 0;
-  canvas.style.pointerEvents = 'none';
 
   /**
    * The canvas element.
